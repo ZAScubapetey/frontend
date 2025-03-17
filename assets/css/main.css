@@ -4786,7 +4786,7 @@ blockquote span {
 ========================================*/
 .contact-us {
   position: relative;
-  background-color: #fff;
+  background-color: #f6f9fc;
   padding-bottom: 0;
 }
 
@@ -5112,7 +5112,7 @@ blockquote span {
   content: "";
   height: 100%;
   width: 100%;
-  background-color: #3763EB;
+  background-color: #213572;
   left: 0;
   top: 0;
   opacity: 0.9;
