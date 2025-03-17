@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/hkdcfgyd/aczonesystems/
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp *.* $DEPLOYPATH
+    
